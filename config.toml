@@ -1,0 +1,10 @@
+[theme]
+base = "light"
+backgroundColor = "#fbfbfd"   # main area → putih
+textColor = "#000000"         # font main area → hitam
+primaryColor = "#BCF29E"
+
+[theme.sidebar]
+backgroundColor = "#edf5ea"        # ← ganti dari #1F3A5F
+textColor = "#1a1a2e"              # ← ganti ke warna gelap
+secondaryBackgroundColor = "#BCF29E" # ← hover item hijau
